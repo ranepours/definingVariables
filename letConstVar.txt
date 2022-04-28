@@ -1,0 +1,8 @@
+const PI = 3.14;
+PI = 42;
+
+//QUIZ
+1. var: can be reassigned and redeclared w/ global scope whereas let: creates block-scoped variable that can be reassigned but not redeclared
+2. var: can be reassigned and redeclared w/ global scope whereas const: creates a block-scoped variable that cannot be reassigned or redeclared
+3. let: creates a variable that can be reassigned/redeclared whereas const does not.
+4. hoisting: when variable declarations are run before initialization (only accessible through var, not const/let)
